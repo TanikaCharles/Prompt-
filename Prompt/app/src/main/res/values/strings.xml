@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prompt!</string>
+    <string name="generate_text">Go</string>
+    <string name="nature">Nature</string>
+    <string name="animals">Animals</string>
+    <string name="people">People</string>
+    <string name="help_timer">Click to turn the timer on or off!</string>
+    <string name="help_refresh">Click to generate prompts!</string>
+    <string name="help">When you need some creative inspiration or just want a fun activity to do
+        with friends: Prompt!\n\nTo get started choose a category: Nature, Animals or People?</string>
+</resources>
